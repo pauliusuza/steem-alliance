@@ -177,7 +177,7 @@ Foundation should keep its funds in a diversified manner, preferably spliting it
 ---
 
 ## Feedback and comments
-If you'd like to leave feedback on this proposal, you can do that [here][upheaver].
+If you'd like to leave feedback on this proposal, you can do that [here][feedback].
 Alternativelly, if you noticed an error or want to make a suggestion, please open a pull request.
 
 Steem Witness [@upheaver][upheaver]
@@ -188,3 +188,4 @@ This proposal is licensed under [MIT license](LICENSE.md)
 
 [steemalliance]: https://steemit.com/@steemalliance
 [upheaver]: https://steemit.com/@upheaver
+[feedback]: https://steemit.com/witness/@upheaver/steem-alliance-foundation-proposal-by-witness-upheaver
