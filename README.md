@@ -96,7 +96,7 @@ _Chicken and Egg problem: the first election of Board of Directors members would
 * Positions are rotating, members can be elected to the board for 1 or 2 year terms.
 * Consecutive terms are allowed, with no limit, subject to re-election.
 * Elected Board of Directors members then self-elect a Chairman of the Board for a 1 year term.
-* Chairman of the Board has the right to veto resolutions.
+* Chairman of the Board has the right to veto simple majority (1/2) resolutions.
 * Chairman can be subject to a vote of no-confidence if at least 1/2 of the board members demand it. 
 * Vote of no confidence requires supermajority (2/3) concensus.
 * Board Resolutions require simple majority.
